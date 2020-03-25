@@ -23,7 +23,7 @@
 [Reverse engineering using IDA Pro from scratch](https://www.youtube.com/watch?v=bYDK5IJphPU)<br/>
 [Firmware analysis using Ghidra](https://chdk.fandom.com/wiki/Firmware_analysis_with_Ghidra)
 
-##### Books
+#### Books
 [Learning linux binary analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)<br/>
 [The firmware handbook (Embedded Technology)](https://www.amazon.in/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 

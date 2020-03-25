@@ -28,6 +28,6 @@
 [The firmware handbook (Embedded Technology)](https://www.amazon.in/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 
 
-### CTF-Write ups
+### CTF - Write ups
 [cjhackerz - boot2root](https://cjhackerz.net/posts/writeup-first-ever-real-like-simulated-iot-security-challenge/)<br/>
 

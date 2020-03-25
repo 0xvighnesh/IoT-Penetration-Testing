@@ -13,6 +13,7 @@
 [Pentesting IoT devices - part 1](https://blog.mindedsecurity.com/2018/09/pentesting-iot-devices-part-1-static.html)<br/>
 [Pentesting IoT devices - part 2](https://blog.mindedsecurity.com/2018/10/pentesting-iot-devices-part-2-dynamic.html)<br/>
 [Firmware analysis tools, tips and tricks](https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/)<br/>
+[Analysing Squashfs](https://lifs.hallym.ac.kr/blog/2019/08/19/File-System-Analysis-of-LG-Forensic-Image-with-Binwalk.html)<br/>
 [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)<br/>
 [Firmadyne - Emulation and Dynamic analysis of firmware](https://github.com/firmadyne/firmadyne)<br/>
 [Attify - Firmware Analysis toolkit](https://blog.attify.com/getting-started-with-firmware-emulation/)<br/>

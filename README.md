@@ -17,7 +17,7 @@
 [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)<br/>
 [Firmadyne - Emulation and Dynamic analysis of firmware](https://github.com/firmadyne/firmadyne)<br/>
 [Attify - Firmware Analysis toolkit](https://blog.attify.com/getting-started-with-firmware-emulation/)<br/>
-[Binwalk firmware analysis tool](https://www.basicinputoutput.com/2016/08/the-binwalk-firmware-analysis-tool.html)<br/>
+[Binwalk firmware analysis tool](https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/)<br/>
 [FACT - The Firmware Analysis and Comparision Tool](https://fkie-cad.github.io/FACT_core/)<br/>
 [IoT firmware analysis - Firmwalker](https://github.com/craigz28/firmwalker)<br/>
 [Reversing firmware with Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)<br/>

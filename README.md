@@ -1,13 +1,13 @@
 # IoT Penetration Testing
 
 ### IoT Attack Vectors
-Network<br/>
-Radio and wireless communication<br/>
-Embedded applications and web services<br/>
-Mobile (Android & Ios)<br/>
-Cloud, API<br/>
-Firmware(UEFI,bootloader,filesystem)<br/>
-Hardware(chips,eproms,uart pins,connectors,RTM modules,uart cables)
+1. Network<br/>
+2. Radio and wireless communication<br/>
+3. Embedded applications and web services<br/>
+4. Mobile (Android & Ios)<br/>
+5. Cloud, API<br/>
+6. Firmware(UEFI,bootloader,filesystem)<br/>
+7. Hardware(chips,eproms,uart pins,connectors,RTM modules,uart cables)
 
 ### Firmware Analysis
 [Pentesting IoT devices - part 1](https://blog.mindedsecurity.com/2018/09/pentesting-iot-devices-part-1-static.html)<br/>
